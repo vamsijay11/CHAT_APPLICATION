@@ -14,8 +14,10 @@ Animations and properties.
 To run this project, install it locally using npm:
 
 
-`
+
 >npx create-react-app my-app
+
 >cd my-app
+
 >npm start
-`
+
