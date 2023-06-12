@@ -13,6 +13,9 @@ Animations and properties.
 #Setup
 To run this project, install it locally using npm:
 
-$ cd ../lorem
-$ npm install
-$ npm start
+
+`
+npx create-react-app my-app
+cd my-app
+npm start
+`
